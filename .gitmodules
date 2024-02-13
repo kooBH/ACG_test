@@ -1,0 +1,3 @@
+[submodule "pyagc"]
+	path = pyagc
+	url = https://github.com/kooBH/pyagc.git
