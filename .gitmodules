@@ -1,3 +1,6 @@
 [submodule "pyagc"]
 	path = pyagc
 	url = https://github.com/kooBH/pyagc.git
+[submodule "vlevel"]
+	path = vlevel
+	url = https://github.com/radiocicletta/vlevel.git
