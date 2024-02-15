@@ -4,3 +4,9 @@
 [submodule "vlevel"]
 	path = vlevel
 	url = https://github.com/radiocicletta/vlevel.git
+[submodule "WebRTC_AGC"]
+	path = WebRTC_AGC
+	url = https://github.com/kooBH/WebRTC_AGC.git
+[submodule "lib/WAV"]
+	path = lib/WAV
+	url = https://github.com/koobh/WAV
