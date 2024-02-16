@@ -11,6 +11,8 @@ include(${CMAKE_CURRENT_LIST_DIR}/../lib/WAV/WAV.cmake)
 
 list(APPEND SRC
 	test.cpp
+	agc.cpp
+	agc.h
 	${CMAKE_CURRENT_LIST_DIR}/../vlevel/volumeleveler/volumeleveler.cpp
 	${CMAKE_CURRENT_LIST_DIR}/../vlevel/volumeleveler/volumeleveler.h
   )
